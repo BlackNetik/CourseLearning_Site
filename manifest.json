@@ -1,6 +1,6 @@
 {
-  "name": "CourseLearning_Blazor_GHPages",
-  "short_name": "CourseLearning_Blazor_GHPages",
+  "name": "CourseLearning_Site",
+  "short_name": "CourseLearning_Site",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",

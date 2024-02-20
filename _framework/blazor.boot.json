@@ -2,12 +2,12 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": false,
-  "entryAssembly": "CourseLearning_Blazor_GHPages",
+  "entryAssembly": "CourseLearning_Site",
   "icuDataMode": 0,
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "CourseLearning_Blazor_GHPages.dll": "sha256-1oNZQ7yeGyOD\/wh1iw9WOElW5+32eyGW8BllF0\/MQUw=",
+      "CourseLearning_Site.dll": "sha256-uaEA5SWmMuzlJbnC\/9Ws2Y7qosvHBnRAG4zy5XHoXp8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-Bt8uo5gkjno12+lgD3NQYTDc5cOnC9stCmbQoUGynSs=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-r0YBuWGUlaHUh2Z23twt81FC7qrTbOMZKoaD\/dgspW4=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-GthKrHcSc8uOL6XXkGQP6uGfESlsj9kHhiGlLA+w5iM=",

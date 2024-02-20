@@ -33,12 +33,12 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-mZIu7uZTZlvwwmMaS+ifyRgymiBgISoISCoW\/6Z672A=",
+      "hash": "sha256-0o52ApgFvrjB8VDONhRtirQdo9ajXdhoJSx8H59Fj44=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-1oNZQ7yeGyOD\/wh1iw9WOElW5+32eyGW8BllF0\/MQUw=",
-      "url": "_framework\/CourseLearning_Blazor_GHPages.dll"
+      "hash": "sha256-uaEA5SWmMuzlJbnC\/9Ws2Y7qosvHBnRAG4zy5XHoXp8=",
+      "url": "_framework\/CourseLearning_Site.dll"
     },
     {
       "hash": "sha256-Bt8uo5gkjno12+lgD3NQYTDc5cOnC9stCmbQoUGynSs=",
@@ -149,8 +149,8 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-EdZkI9H3BIBJ4RXirWZfgEDLZhWEQrb\/phtngnq5H44=",
-      "url": "CourseLearning_Blazor_GHPages.styles.css"
+      "hash": "sha256-cw1Jczr0CTCKKzJRF6MJeCjmmeJRfinEDvjTEnV1sRM=",
+      "url": "CourseLearning_Site.styles.css"
     },
     {
       "hash": "sha256-uhotZszkBLq\/V8xt8UtpU6lGHEIqbqLsFUVGyelV2TU=",
@@ -213,11 +213,11 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-u3L32lPCTanIV5V9ftt753YSs+Bun5rTYwZZOkKcXO8=",
+      "hash": "sha256-mRlW3MHpk4wBSt+UFWWpCATrycy1tAbwA2MuePMo08E=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-pc7tnU2hWD4adG9FytjLc6iMZYxGrvz1Ug\/l+\/aIgI0=",
+      "hash": "sha256-mDZFP9iOBAnQRZ+4ZHdlAUenjVbA753yiphurd8Hbho=",
       "url": "manifest.json"
     },
     {
@@ -225,5 +225,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "y5+FLVR7"
+  "version": "v3wNjjnG"
 };
